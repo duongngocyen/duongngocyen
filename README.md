@@ -11,7 +11,7 @@ I am currently an **AI Research Intern** at [Blue Raven AI](https://blueravenai.
 </p>
 
 ## 📰 News
-- My paper **Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models**, where I am one of the co-first author has been accepted to **EMNLP 2024**🎉 . Checkout: https://github.com/dxlong2000/Multi-expert-Prompting
+- My paper **Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models**, where I am one of the co-first author has been accepted to **EMNLP 2024** at Miami, Florida 🎉 . Checkout: https://github.com/dxlong2000/Multi-expert-Prompting
 
 ---
 
