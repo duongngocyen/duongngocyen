@@ -3,7 +3,7 @@
 I'm a **final-year student** at [Nanyang Technological University](https://www.ntu.edu.sg/).
 
 ## About Me
-I am currently an **AI Research Intern** at [Blue Raven AI](https://blueravenai.com/), where we build **LLMs for Automatic Theorem Proving** in Lean4. I'm passionate about **AI** and **NLP**, particularly in reasoning. I also enjoy writing in my free time, and hopefully, I will manage to publish one day! ✍️
+I am currently an **AI Research Intern** at [Blue Raven AI](https://blueravenai.com/), where we build **LLMs for Automatic Theorem Proving** in Lean4. I also enjoy writing in my free time, and hopefully, I will manage to publish one day! ✍️
 
 <p align="left">
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duongngocyen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height="180px"/>
